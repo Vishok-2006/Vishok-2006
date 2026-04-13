@@ -46,23 +46,16 @@
 ---
 
 
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Vishok-2006&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishok-2006&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishok-2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
----
 
 
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishok-2006&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true"/>
-</p>
 
 ---
 
