@@ -37,7 +37,8 @@
 
 ### 🚀 Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,npm,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,npm,vercel" />
+
 
 ### 🧠 AI / Dev Tools
 
@@ -53,8 +54,7 @@
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,git,github,docker" />
 </p>
 
 ---
