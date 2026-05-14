@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Vishok-2006/Vishok-2006/main/animated.jpg"
+    width="300%"
+    height="250"
+  />
+</p>
+
 <h1 align="center">Hey 👋, I'm Vishok</h1>
 
 
