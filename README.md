@@ -1,9 +1,12 @@
 <h1 align="center">Hey 👋, I'm Vishok</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Engineering Student</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Projects;Exploring+Vector+Databases;Always+Learning+New+Tech+🚀">
 </p>
+
+
+
 
 ---
 
@@ -19,7 +22,14 @@
 
 # 🌐 Connect With Me
 
+
 <p align="center">
+
+  <a href="https://vishok.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  
   <a href="https://instagram.com/vtm__alone__king__143">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -43,13 +53,12 @@
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 
----
+
 
 ## 🚀 Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,npm,vercel" />
 
----
 
 ## 🧠 AI / Development Tools
 
@@ -57,7 +66,6 @@
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCode-0A0A0A?style=for-the-badge&logo=code&logoColor=white"/>
 
----
 
 ## 🛢️ Databases
 
@@ -66,7 +74,6 @@
 
 <img src="https://img.shields.io/badge/Endee%20Vector%20DB-1E1E2E?style=for-the-badge&logo=databricks&logoColor=white"/>
 
----
 
 ## 🧰 Platforms & Tools
 
@@ -77,13 +84,12 @@
 ---
 
 # 🚀 Featured Projects
-# 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Repository |
 |----------|-------------|-------------|-------------|
 | 🔷 **Vector Project** | AI-powered Vector Database & RAG-based system focused on semantic search and intelligent retrieval | Node.js, Python, Vector DB, AI Integration | [Vector Project](https://github.com/Vishok-2006/Vector-Project) |
 | 🌾 **AGROW AI** | Smart agriculture assistant powered by AI & Weather API for intelligent farming recommendations | AI, Supabase, Weather API, Full Stack | [AGROW AI](https://github.com/Vishok-2006/Agrow-AI) |
-| ⛓️ **ChainDrive** | Blockchain-based decentralized storage/project system with scalable architecture | Blockchain, Full Stack, APIs | [ChainDrive](https://github.com/Vishok-2006/ChainDrive) |
+| ⛓️ **ChainDrive** | Blockchain-based decentralized storage/project system with scalable architecture and RAG System | Blockchain, Full Stack, APIs | [ChainDrive](https://github.com/Vishok-2006/ChainDrive) |
 | 🛡️ **InsureAI** | AI-powered insurance assistance platform designed to simplify insurance workflows | AI, Backend APIs, Full Stack | [InsureAI](https://github.com/Vishok-2006/InsureAI) |
 ---
 
