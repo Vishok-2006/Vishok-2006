@@ -54,7 +54,7 @@
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=linux,kali,arch,git,github,docker" />
 </p>
 
 ---
