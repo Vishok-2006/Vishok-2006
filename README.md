@@ -48,44 +48,54 @@
 
 
 
-# ⚒️ Tech Stack
 
+## 🛠️ Languages & Tools
+
+
+<h3 align="center">Programming Languages</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
-## 💻 Languages
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
+</p>
 
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
 
-## 🚀 Frameworks & Tools
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,npm,vercel" />
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 
+</p>
 
-## 🧠 AI / Development Tools
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
 
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=airplayvideo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCode-0A0A0A?style=for-the-badge&logo=code&logoColor=white"/>
+</p>
 
-
-## 🛢️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase" />
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Endee%20Vector%20DB-1E1E2E?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-
-## 🧰 Platforms & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,kali,arch,git,github,docker,vscode" />
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
 </p>
 
 
-## 🛠️ Languages & Tools
 
 ![Top language](https://stats.pphat.top/languages?username=Vishok-2006)
 <br/>
