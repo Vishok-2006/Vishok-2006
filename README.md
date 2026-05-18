@@ -10,7 +10,7 @@
 
 
 
----
+
 
 # 🧑‍💻 About Me
 
@@ -20,7 +20,7 @@
 - 🌱 Currently exploring **Advanced Full Stack Development, Vector Databases & AI Systems**
 - 🎯 Goal: Become a highly skilled Software Engineer & AI Developer
 
----
+
 
 # 🌐 Connect With Me
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
----
+
 
 # ⚒️ Tech Stack
 
@@ -83,7 +83,7 @@
 
 </p>
 
----
+
 
 # 🚀 Featured Projects
 
@@ -93,7 +93,7 @@
 | 🌾 **AGROW AI** | Smart agriculture assistant powered by AI & Weather API for intelligent farming recommendations | AI, Supabase, Weather API, Full Stack | [AGROW AI](https://github.com/Vishok-2006/Agrow-AI) |
 | ⛓️ **ChainDrive** | Blockchain-based decentralized storage/project system with scalable architecture and RAG System | Blockchain, Full Stack, APIs | [ChainDrive](https://github.com/Vishok-2006/ChainDrive) |
 | 🛡️ **InsureAI** | AI-powered insurance assistance platform designed to simplify insurance workflows | AI, Backend APIs, Full Stack | [InsureAI](https://github.com/Vishok-2006/InsureAI) |
----
+
 
 # 💡 What I Focus On
 
@@ -106,7 +106,7 @@
 + Blockchain & Decentralized Systems
 ```
 
----
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -120,7 +120,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishok-2006&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+
 
 
 
@@ -130,6 +130,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
+
 
 <h3 align="center">⚡ Code. Build. Break. Learn. Repeat. ⚡</h3>
