@@ -1,6 +1,41 @@
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,29&text=Vishok%20P&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"
+/>
 
 
-<h1 align="center">Hey 👋, I'm Vishok</h1>
+
+
+
+
+
+
+<p align="center">
+
+
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center">
@@ -84,6 +119,13 @@
 </p>
 
 
+## 🛠️ Languages & Tools
+
+![Top language](https://stats.pphat.top/languages?username=Vishok-2006)
+<br/>
+
+
+
 
 # 🚀 Featured Projects
 
@@ -107,17 +149,25 @@
 ```
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishok-2006&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://github.com/Vishok-2006">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishok-2006&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Vishok-2006's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Vishok-2006&theme=dracula&hide_border=true&cache_seconds=86400" alt="Vishok-2006's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Vishok-2006&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishok P's GitHub Trophies" />
+
+
+
+
 
 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishok-2006&theme=tokyo-night&hide_border=true"/>
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishok-2006&theme=dracula&radius=10" alt="Vishok-2006's Activity Graph" />
 </p>
 
 
