@@ -9,20 +9,6 @@
 
 
 
-<p align="center">
-
-
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-
-
-
-
-
-
-
 
 
 
