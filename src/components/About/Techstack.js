@@ -54,6 +54,7 @@ function Techstack() {
         <img src={SQL} alt="SQL" />
         <div className="tech-icons-text">SQL</div>
       </Col>
+      
   
       <Col xs={4} md={2} className="tech-icons">
         <img src={Docker} alt="docker" />
