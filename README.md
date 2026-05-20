@@ -126,16 +126,25 @@
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <a href="https://github.com/Vishok-2006">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishok-2006&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Vishok-2006's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Vishok-2006&theme=dracula&hide_border=true&cache_seconds=86400" alt="Vishok-2006's GitHub Streak" width="49%" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Vishok-2006&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishok P's GitHub Trophies" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vishok-2006&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Vishok-2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+  />
+</p>
 
 
 
