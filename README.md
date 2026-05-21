@@ -128,17 +128,9 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
+ <a href="https://git.io/streak-stats"><img src="https://github-streak-stats.vercel.app?user=Vishok-2006&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vishok-2006&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 <p align="center">
   <img
