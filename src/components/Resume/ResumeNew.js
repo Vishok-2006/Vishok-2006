@@ -26,7 +26,7 @@ function ResumeNew() {
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
-           
+           </Button>
         </Row>
 
         <Row className="resume">
