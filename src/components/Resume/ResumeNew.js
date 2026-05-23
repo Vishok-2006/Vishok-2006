@@ -26,9 +26,7 @@ function ResumeNew() {
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
-            <AiOutlineDownload />
-            &nbsp;Download CV
-          </Button>
+           
         </Row>
 
         <Row className="resume">
@@ -44,7 +42,9 @@ function ResumeNew() {
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
-           
+            <AiOutlineDownload />
+            &nbsp;Download CV
+          </Button>
         </Row>
       </Container>
     </div>
