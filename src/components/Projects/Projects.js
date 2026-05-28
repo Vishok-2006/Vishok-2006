@@ -23,7 +23,6 @@ function Projects() {
         </p>
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-
           {/* AGROW AI */}
           <Col md={4} className="project-card">
             <ProjectCard
@@ -34,7 +33,7 @@ function Projects() {
               ghLink="https://github.com/Vishok-2006/AgrowAI"
             />
           </Col>
-        {/* InsureAI */}
+          {/* InsureAI */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={InsureAi}
@@ -55,23 +54,16 @@ function Projects() {
             />
           </Col>
 
-         
-
           {/* ChainDrive */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={blockchain}
               isBlog={false}
               title="Chaindrive"
-              description="A custom blockchain built by modifying Bitcoin Core. Features include custom consensus parameters, 3.2-minute block interval, DVL cryptocurrency ticker, and a total supply of 1 billion coins."
+              description="A custom blockchain built by modifying Bitcoin Core. Features include custom consensus parameters, 3.2-minute block interval, DVL cryptocurrency ticker, and a total supply of 1 billion coins.And It is currently under developement and will be launched soon."
               ghLink="https://github.com/Vishok-2006/ChainDrive"
             />
           </Col>
-
-        
-      
-
-
         </Row>
       </Container>
     </Container>
