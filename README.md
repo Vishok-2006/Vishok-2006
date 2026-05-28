@@ -36,9 +36,8 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -48,7 +47,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Backend</h3>
@@ -61,20 +60,27 @@
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+</p>
+## 🛠️ Top Languages
+<p align="center">
+  <a href="https://github.com/DevilDraco">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishok-2006&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 ![Top language](https://stats.pphat.top/languages?username=Vishok-2006)
@@ -86,7 +92,6 @@
 |----------|-------------|-------------|-------------|
 | 🔷 **Vector Project** | AI-powered Vector Database & RAG-based system focused on semantic search and intelligent retrieval | Node.js, Python, Vector DB, AI Integration | [Vector Project](https://github.com/Vishok-2006/Vector-Project) |
 | 🌾 **AGROW AI** | Smart agriculture assistant powered by AI & Weather API for intelligent farming recommendations | AI, Supabase, Weather API, Full Stack | [AGROW AI](https://github.com/Vishok-2006/Agrow-AI) |
-| ⛓️ **ChainDrive** | Blockchain-based decentralized storage/project system with scalable architecture and RAG System | Blockchain, Full Stack, APIs | [ChainDrive](https://github.com/Vishok-2006/ChainDrive) |
 | 🛡️ **InsureAI** | AI-powered insurance assistance platform designed to simplify insurance workflows | AI, Backend APIs, Full Stack | [InsureAI](https://github.com/Vishok-2006/InsureAI) |
 
 # 💡 What I Focus On
