@@ -76,7 +76,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 </p>
-## 🛠️ Top Languages
+
+# 🛠️ Top Languages
 <p align="center">
   <a href="https://github.com/DevilDraco">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishok-2006&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
@@ -105,7 +106,7 @@
 + Blockchain & Decentralized Systems
 ```
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Vishok-2006">
