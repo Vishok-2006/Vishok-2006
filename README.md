@@ -114,9 +114,7 @@
   <img src="https://streak-stats.demolab.com/?user=Vishok-2006&theme=radical&hide_border=true&cache_seconds=86400" alt="Vishok-2006's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Vishok-2006&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
-</p>
+
 
 ## 🔥 Contribution Graph
 
