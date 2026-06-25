@@ -1,4 +1,7 @@
 
+import { Col, Row } from "react-bootstrap";
+
+
 
 import Javascript from "../../Assets/TechIcons/Javascript.svg";
 
