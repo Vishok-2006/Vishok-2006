@@ -18,7 +18,7 @@ function Projects() {
         </h1>
 
         <p style={{ color: "white" }}>
-          Here are some of the projects I’ve worked on in AI, Cybersecurity,
+          Here are some of the projects I’ve worked on in AI,
           Blockchain, and Full Stack Development.
         </p>
 
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={blockchain}
               isBlog={false}
               title="Chaindrive"
-              description="A custom blockchain built by modifying Bitcoin Core. Features include custom consensus parameters, 3.2-minute block interval, DVL cryptocurrency ticker, and a total supply of 1 billion coins.And It is currently under developement and will be launched soon."
+              description="A blockchain built using- Ethereum. It is currently under developement and will be launched soon."
               ghLink="https://github.com/Vishok-2006/ChainDrive"
             />
           </Col>

@@ -15,7 +15,7 @@ function AboutCard() {
             <span className="purple">B.E Computer Science and Engineering</span> at{" "}
             <span className="purple">VSB Engineering College, Karur</span>.
             <br />I'm passionate about {" "}
-            <span className="purple">Full-Stack Development and Blockchain Technology.</span> 
+            <span className="purple">Full-Stack Development.</span> 
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
@@ -29,12 +29,8 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Exploring Linux.
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Learning Web3 & Blockchain.
-            </li>
-             <li className="about-activity">
-              <ImPointRight /> Gaming and Tech Exploration.
-            </li>
+            
+             
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
