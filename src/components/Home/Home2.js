@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, Blockchain Solutions{" "}
                 </b>
               </i>
               and exploring new Technologies.
