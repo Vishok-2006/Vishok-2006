@@ -112,10 +112,14 @@
   <a href="https://github.com/Vishok-2006">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishok-2006&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Vishok-2006's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Vishok-2006&theme=radical&hide_border=true&cache_seconds=86400" alt="Vishok-2006's GitHub Streak" width="49%" />
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vishok-2006&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" >
+
 </p>
 
+ 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🔥 Contribution Graph
 
