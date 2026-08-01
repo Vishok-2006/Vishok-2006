@@ -76,9 +76,10 @@
 
 # 🛠️ Top Languages
 <p align="center">
-  <a href="https://github.com/DevilDraco">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishok-2006&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishok-2006&layout=compact&theme=radical&border_radius=10"/>
+
 </p>
 
 
@@ -112,7 +113,15 @@
 
 
 
+<p align="center">
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Vishok-2006&theme=radical&border_radius=10"/>
+</p>
 
+<p align="center">
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishok-2006&theme=radical"/>
+</p>
 </p>
 
  
@@ -123,8 +132,12 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishok-2006&theme=dracula&radius=10" alt="Vishok-2006's Activity Graph" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishok-2006&theme=react-dark"/>
 </p>
+
+
 
 ## ✨ Quote of the Day
 
