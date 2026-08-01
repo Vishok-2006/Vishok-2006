@@ -107,7 +107,9 @@
 
 <p align="center">
   <a href="https://github.com/Vishok-2006">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishok-2006&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Vishok-2006's GitHub Stats" />
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishok-2006&show_icons=true&theme=radical&border_radius=10"/>
+
   </a>
 
 
