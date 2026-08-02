@@ -118,16 +118,9 @@
 
 
 
-
 <p align="center">
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Vishok-2006&theme=radical&border_radius=10"/>
-</p>
-
-<p align="center">
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishok-2006&theme=radical"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishok-2006&show_icons=true&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=Vishok-2006&theme=radical"/>
 </p>
 
  
