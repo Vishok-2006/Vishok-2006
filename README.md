@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,29&text=Vishok%20P&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Projects;Exploring+Vector+Databases;Always+Learning+New+Tech+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Projects;Always+Learning+New+Tech+🚀">
 </p>
 
 # 🧑‍💻 About Me
