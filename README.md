@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,29&text=Vishok%20P&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:6A0DAD,50:B026FF,75:FF00E4,100:00E5FF&height=200&section=header&text=Vishok.P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" width="100%"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Projects;Always+Learning+New+Tech+🚀">
