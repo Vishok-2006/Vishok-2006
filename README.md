@@ -123,7 +123,11 @@
   <img src="https://streak-stats.demolab.com/?user=Vishok-2006&theme=radical"/>
 </p>
 
- 
+ ## 🧩 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Vishok007?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
