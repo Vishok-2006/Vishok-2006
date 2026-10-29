@@ -33,49 +33,38 @@
   </a>
 </p>
 
-## 🛠️ Languages & Tools
+
+# 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend Development</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="React, Next.js, HTML, CSS" />
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend Development</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi" alt="Node.js, Spring, FastAPI" />
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Database & Vector Search</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL, Supabase" />
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="48" height="48" />
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">DevOps & Operating Systems</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash" alt="Docker, Linux, Bash" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools & Version Control</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
 
 # 🛠️ Top Languages
@@ -132,13 +121,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🔥 Contribution Graph
-
-<p align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishok-2006&theme=react-dark"/>
-</p>
 
 
 
