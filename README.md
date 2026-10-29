@@ -77,13 +77,63 @@
 
 
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-|----------|-------------|-------------|-------------|
-| 🔷 **Vector Project** | AI-powered Vector Database & RAG-based system focused on semantic search and intelligent retrieval | Node.js, Python, Vector DB, AI Integration | [Vector Project](https://github.com/Vishok-2006/Vector-Project) |
-| 🌾 **AGROW AI** | Smart agriculture assistant powered by AI & Weather API for intelligent farming recommendations | AI, Supabase, Weather API, Full Stack | [AGROW AI](https://github.com/Vishok-2006/Agrow-AI) |
-| 🛡️ **InsureAI** | AI-powered insurance assistance platform designed to simplify insurance workflows | AI, Backend APIs, Full Stack | [InsureAI](https://github.com/Vishok-2006/InsureAI) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔷 Vectora</h3>
+      <p>AI-powered Retrieval-Augmented Generation (RAG) application for semantic search, document retrieval, and intelligent AI-generated responses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+        <img src="https://img.shields.io/badge/NVIDIA_API-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://vectora-9fs2.onrender.com/">🚀 Live Demo</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/Vishok-2006/Vectora">💻 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 Agrow-AI</h3>
+      <p>AI-powered agriculture assistant offering crop disease detection, yield prediction, and weather-based farming recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Weather_API-FF9800?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" />
+      </p>
+      <a href="https://github.com/Vishok-2006/Agrow-AI">💻 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 MergeLens</h3>
+      <p>AI-assisted code review tool designed to analyze GitHub repositories, identify potential code issues, and provide intelligent review suggestions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Code_Review-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=flat-square" />
+      </p>
+      <a href="https://github.com/Vishok-2006/MergeLens">💻 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Insure-AI</h3>
+      <p>Insurance assistance platform designed to simplify insurance workflows with role-based functionality for users, agents, and administrators.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+      </p>
+      <a href="https://github.com/Vishok-2006/InsureAI">💻 Repository</a>
+    </td>
+  </tr>
+</table>
+
+
 
 # 💡 What I Focus On
 
